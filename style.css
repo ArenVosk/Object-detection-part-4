@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: sans-serif;
+}
+
+#status
+{
+font-size: 18px;
+color: mediumspringgreen;
+font-family: sans-serif;
+margin-top: 30px;
+}
+
+#number_of_objects
+{
+    font-size: 18px;
+    color: mediumspringgreen;
+    font-family: sans-serif;
+    margin-top: 30px;
+    }
+
+body
+{
+ background-size: cover;
+ background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
